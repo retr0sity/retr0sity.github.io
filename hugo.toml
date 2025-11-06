@@ -1,19 +1,19 @@
 baseURL = 'https://retr0sity.github.io/'
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Ioannis Karkalas'
 theme = 'PaperMod'
 
 [params]
-  description = "Your portfolio description"
-  author = "Your Name"
+  description = "This webpage represents my projects, skills and my newfound passion for game development"
+  author = "Welcome to my portfolio! My name is Ioannis."
   
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/YOUR-USERNAME"
+    url = "https://github.com/retr0sity"
   
   [[params.socialIcons]]
     name = "linkedin"
-    url = "https://linkedin.com/in/YOUR-PROFILE"
+    url = "https://linkedin.com/in/ioannis-karkalas"
 
 [menu]
   [[menu.main]]
