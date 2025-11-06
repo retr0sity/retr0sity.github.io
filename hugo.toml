@@ -5,7 +5,21 @@ theme = 'PaperMod'
 
 [params]
   description = "This webpage represents my projects, skills and my newfound passion for game development"
-  author = "Welcome to my portfolio! My name is Ioannis."
+  author = "Ioannis Karkalas"
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+  [params.profileMode]
+    enabled = true
+    title = "Hey there! Welcome to my website! 👋"
+    subtitle = "This page illustrates my projects, skills and newfound passion for game development."
+    imageUrl = "/profile.png"
+    imageWidth = 400
+    imageHeight = 400
+    imageTitle = "my profile picture"
   
   [[params.socialIcons]]
     name = "github"
