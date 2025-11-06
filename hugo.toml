@@ -1,0 +1,27 @@
+baseURL = 'https://retr0sity.github.io/'
+languageCode = 'en-us'
+title = 'My Portfolio'
+theme = 'PaperMod'
+
+[params]
+  description = "Your portfolio description"
+  author = "Your Name"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/YOUR-USERNAME"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/YOUR-PROFILE"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
