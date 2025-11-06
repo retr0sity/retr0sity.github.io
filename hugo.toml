@@ -4,7 +4,7 @@ title = 'Ioannis Karkalas'
 theme = 'PaperMod'
 
 [params]
-  description = "This webpage represents my projects, skills and my newfound passion for game development"
+  description = "This webpage illustrates my projects, skills and my newfound passion for game development"
   author = "Ioannis Karkalas"
   ShowShareButtons = false
   ShowReadingTime = false
