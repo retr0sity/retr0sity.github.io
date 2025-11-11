@@ -35,29 +35,12 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;web-development&#34;&gt;Web Development&lt;/h2&gt;
-&lt;h3 id=&#34;portfolio-website-generator&#34;&gt;Portfolio Website Generator&lt;/h3&gt;
-&lt;p&gt;A static site generator that creates beautiful portfolio websites from markdown files.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Features&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Responsive design with dark mode&lt;/li&gt;
-&lt;li&gt;Automatic GitHub repository integration&lt;/li&gt;
-&lt;li&gt;SEO optimized&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Jinja2, GitHub API&lt;br&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;link&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;link&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;systems--tools&#34;&gt;Systems &amp;amp; Tools&lt;/h2&gt;
-&lt;h3 id=&#34;custom-shell-implementation&#34;&gt;Custom Shell Implementation&lt;/h3&gt;
-&lt;p&gt;A Unix-like shell written from scratch in C.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Built-in commands and piping&lt;/li&gt;
-&lt;li&gt;Background process management&lt;/li&gt;
-&lt;li&gt;Signal handling&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: C, Linux&lt;br&gt;
-&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;link&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;iframe src=&#34;http://localhost:1313/github-projects.html&#34; 
+        width=&#34;100%&#34; 
+        height=&#34;2000px&#34; 
+        style=&#34;border: none;&#34;
+        onload=&#34;this.style.height=(this.contentWindow.document.body.scrollHeight+50)+&#39;px&#39;&#34;&gt;
+&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
