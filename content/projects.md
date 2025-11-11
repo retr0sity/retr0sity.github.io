@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-layout: "single"
 ---
 
 {{< rawhtml >}}
