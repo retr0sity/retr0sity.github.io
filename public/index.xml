@@ -6,7 +6,58 @@
     <description>Recent content on Ioannis Karkalas</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem-solving with creative storytelling.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software Development&lt;/strong&gt;: Building desktop and web applications, tools, and solving complex problems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game Development&lt;/strong&gt;: Creating interactive experiences (and not only!) using Unity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Problem Solving&lt;/strong&gt;: Competitive programming and algorithmic challenges&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, C, C++, JavaScript, C#, Java, Kotlin, NetLogo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;web-development&#34;&gt;Web Development&lt;/h2&gt;
+&lt;h3 id=&#34;portfolio-website-generator&#34;&gt;Portfolio Website Generator&lt;/h3&gt;
+&lt;p&gt;A static site generator that creates beautiful portfolio websites from markdown files.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Features&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive design with dark mode&lt;/li&gt;
+&lt;li&gt;Automatic GitHub repository integration&lt;/li&gt;
+&lt;li&gt;SEO optimized&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Jinja2, GitHub API&lt;br&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;link&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;link&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;systems--tools&#34;&gt;Systems &amp;amp; Tools&lt;/h2&gt;
+&lt;h3 id=&#34;custom-shell-implementation&#34;&gt;Custom Shell Implementation&lt;/h3&gt;
+&lt;p&gt;A Unix-like shell written from scratch in C.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Built-in commands and piping&lt;/li&gt;
+&lt;li&gt;Background process management&lt;/li&gt;
+&lt;li&gt;Signal handling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: C, Linux&lt;br&gt;
+&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&#34;link&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

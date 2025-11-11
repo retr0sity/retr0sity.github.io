@@ -29,6 +29,14 @@ theme = 'PaperMod'
     name = "linkedin"
     url = "https://linkedin.com/in/ioannis-karkalas"
 
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:ioannis.karkalas@gmail.com"
+
+  [[params.socialIcons]]
+  name = "itch.io"
+  url = "https://svelto-hotza.itch.io"
+
 [menu]
   [[menu.main]]
     name = "About"
@@ -39,3 +47,8 @@ theme = 'PaperMod'
     name = "Projects"
     url = "/projects/"
     weight = 2
+
+    [[menu.main]]
+    name = "Games"
+    url = "/games/"
+    weight = 3
