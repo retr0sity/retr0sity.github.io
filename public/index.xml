@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ioannis Karkalas</title>
-    <link>http://localhost:1313/</link>
+    <link>https://retr0sity.github.io/</link>
     <description>Recent content on Ioannis Karkalas</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://retr0sity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://retr0sity.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://retr0sity.github.io/about/</guid>
       <description>&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem-solving with creative storytelling.&lt;/p&gt;
 &lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;
@@ -25,9 +26,9 @@
     </item>
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/games/</link>
+      <link>https://retr0sity.github.io/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/games/</guid>
+      <guid>https://retr0sity.github.io/games/</guid>
       <description>&lt;h2 id=&#34;my-game-development-journey&#34;&gt;My Game Development Journey&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m passionate about creating interactive experiences that blend storytelling with engaging gameplay. Here you&amp;rsquo;ll find my game projects and playable demos.&lt;/p&gt;
 &lt;hr&gt;
@@ -50,15 +51,15 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;want-to-see-more&#34;&gt;Want to see more?&lt;/h3&gt;
-&lt;p&gt;Check out my &lt;a href=&#34;http://localhost:1313/projects&#34;&gt;GitHub repositories&lt;/a&gt; for game-related code and experiments, or connect with me on &lt;a href=&#34;https://linkedin.com/in/ioannis-karkalas&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;Check out my &lt;a href=&#34;https://retr0sity.github.io/projects&#34;&gt;GitHub repositories&lt;/a&gt; for game-related code and experiments, or connect with me on &lt;a href=&#34;https://linkedin.com/in/ioannis-karkalas&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://retr0sity.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://retr0sity.github.io/projects/</guid>
       <description>&lt;div id=&#34;projects-container&#34; style=&#34;width: 100%; min-height: 2000px;&#34;&gt;
-  &lt;iframe src=&#34;http://localhost:1313/github-projects.html&#34; 
+  &lt;iframe src=&#34;https://retr0sity.github.io/github-projects.html&#34; 
           id=&#34;projects-iframe&#34;
           width=&#34;100%&#34; 
           height=&#34;2000px&#34; 
