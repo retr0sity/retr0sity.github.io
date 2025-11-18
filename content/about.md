@@ -34,4 +34,4 @@ I'm Ioannis, a Computer Science student with a passion for building interactive 
 
 ---
 
-*Feel free to reach out via [LinkedIn](your-link) or check out my work on [GitHub](your-link)!*
+*Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ioannis-karkalas/) or check out my work on [GitHub](https://github.com/retr0sity)!*
