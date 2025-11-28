@@ -28,7 +28,7 @@ I'm Ioannis, a Computer Science student with a passion for building interactive 
 
 ## Currently
 
-🎮 Working on "A Feather's Weight", check out the prototype on my Games page!
+🎮 Working on "A Feather's Weight", check out the prototype on my Games page!           
 📚 Learning Dockers!  
 🔨 Starting my Computer Science and Engineering MSc!
 
