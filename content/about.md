@@ -4,13 +4,13 @@ title: "About Me"
 
 ## Who I Am
 
-I'm Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem-solving with creative storytelling.
+I'm Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem solving with creative storytelling.
 
 ## What I Do
 
-- **Software Development**: Building desktop and web applications, tools, and solving complex problems
+- **Software Development**: Building desktop and web applications, tools, and thinking of new solutions
 - **Game Development**: Creating interactive experiences (and not only!) using Unity
-- **Problem Solving**: Competitive programming and algorithmic challenges
+- **Problem Solving**: Working on understanding the problem and developing ideas through many perspectives
 
 ## Skills
 
@@ -28,9 +28,9 @@ I'm Ioannis, a Computer Science student with a passion for building interactive 
 
 ## Currently
 
-🎮 Working on https://www.linkedin.com/feed/update/urn:li:activity:7391589478580043776/ 
+🎮 Working on "A Feather's Weight", check out the prototype on my Games page!
 📚 Learning Dockers!  
-🔨 Building
+🔨 Starting my Computer Science and Engineering MSc!
 
 ---
 
