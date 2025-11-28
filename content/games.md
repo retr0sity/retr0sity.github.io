@@ -8,7 +8,7 @@ I'm passionate about creating interactive experiences that blend storytelling wi
 
 ---
 
-## 🕹️ Featured Game: A Feather's Weight - Demo 
+## A Feather's Weight - Prototype Demo 
 
 <div style="width: 100vw; margin: 2rem calc(50% - 50vw); text-align: center;">
   <iframe 
@@ -22,9 +22,9 @@ I'm passionate about creating interactive experiences that blend storytelling wi
 
 ### About This Game
 **Engine**: Unity  
-**Status**: Demo Available  
+**Status**: In development - prototype available  
 
-Try out the demo and experience the gameplay mechanics I've been developing!
+Try out the prototype and test out the gameplay mechanics I've been developing!
 
 [▶️ Play Full Demo on itch.io](https://svelto-hotza.itch.io/a-feathers-weight-demo)
 
@@ -34,8 +34,9 @@ Try out the demo and experience the gameplay mechanics I've been developing!
 
 - **Game Design Principles** - Creating engaging player experiences
 - **Unity C# Scripting** - Implementing game mechanics and systems  
-- **Level Design** - Crafting intuitive player flow and progression
-- **Game Physics** - Building realistic and responsive interactions
+- **World Interaction** - Crafting world interactions that feel weighted
+- **Game Physics** - Studying realistic and responsive interactions
+- **Lighting and Shadows** - Taking a real interest on beautiful lighting on 2D games
 
 ---
 
