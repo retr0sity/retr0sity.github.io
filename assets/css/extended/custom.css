@@ -1,0 +1,10 @@
+/* Make projects page full width */
+.post-content iframe#projects-iframe,
+.post-content div#projects-container {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}

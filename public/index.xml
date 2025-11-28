@@ -53,5 +53,29 @@
 &lt;h3 id=&#34;want-to-see-more&#34;&gt;Want to see more?&lt;/h3&gt;
 &lt;p&gt;Check out my &lt;a href=&#34;https://retr0sity.github.io/projects&#34;&gt;GitHub repositories&lt;/a&gt; for game-related code and experiments, or connect with me on &lt;a href=&#34;https://linkedin.com/in/ioannis-karkalas&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Projects</title>
+      <link>https://retr0sity.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://retr0sity.github.io/projects/</guid>
+      <description>&lt;div id=&#34;projects-container&#34; style=&#34;width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; min-height: 2000px;&#34;&gt;
+&lt;iframe src=&#34;https://retr0sity.github.io/github-projects.html&#34; 
+id=&#34;projects-iframe&#34;
+width=&#34;100%&#34; 
+height=&#34;2000px&#34; 
+style=&#34;border: none; display: block;&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;script&gt;
+window.addEventListener(&#39;message&#39;, function(event) {
+if (event.data &amp;&amp; event.data.height) {
+document.getElementById(&#39;projects-iframe&#39;).style.height = event.data.height + &#39;px&#39;;
+    }
+  }, false);
+setTimeout(function() {
+document.getElementById(&#39;projects-iframe&#39;).style.height = &#39;2000px&#39;;
+  }, 2000);
+&lt;/script&gt;</description>
+    </item>
   </channel>
 </rss>
