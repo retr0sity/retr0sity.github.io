@@ -14,7 +14,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Hey there! Welcome to my website! 👋"
-    subtitle = "This page illustrates my projects, skills and newfound passion for game development."
+    subtitle = "This page illustrates my projects, skills and newfound passion for Cybersecurity."
     imageUrl = "/profile.png"
     imageWidth = 400
     imageHeight = 400
