@@ -2,51 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ioannis Karkalas</title>
-    <link>https://retr0sity.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ioannis Karkalas</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://retr0sity.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://retr0sity.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://retr0sity.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;div style=&#34;width: 100%; margin: -2rem -2rem 2rem -2rem;&#34;&gt;
   &lt;div style=&#34;height: 300px; overflow: hidden; border-radius: 0 0 12px 12px;&#34;&gt;
-    &lt;img src=&#34;https://retr0sity.github.io/images/about-hero.jpg&#34; alt=&#34;Developer workspace with code and creativity&#34; style=&#34;width: 100%; height: 100%; object-fit: cover; object-position: center;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/about-hero.jpg&#34; alt=&#34;Developer workspace with code and creativity&#34; style=&#34;width: 100%; height: 100%; object-fit: cover; object-position: center;&#34;&gt;
   &lt;/div&gt;
   &lt;p style=&#34;text-align: right; font-size: 0.75rem; color: #888; margin: 0.5rem 1rem 0 0; font-style: italic;&#34;&gt;
     Photo by &lt;a href=&#34;https://www.vecteezy.com/members/teerawatcr594810&#34; target=&#34;_blank&#34; style=&#34;color: #888; text-decoration: none;&#34;&gt;Teerawat Wutthikan&lt;/a&gt; on &lt;a href=&#34;https://www.vecteezy.com/photo/69691106-traveler-photographing-monks-in-ancient-monastery-amidst-mountains&#34; target=&#34;_blank&#34; style=&#34;color: #888; text-decoration: none;&#34;&gt;Vecteezy&lt;/a&gt;
   &lt;/p&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem solving with creative storytelling.&lt;/p&gt;</description>
+&lt;p&gt;I&amp;rsquo;m Ioannis, a Computer Science student with a passion for building things and understanding how they break. My journey spans from software development to game design, and more recently to cybersecurity and homelabbing, where my goal is to combine technical problem solving with curiosity about how systems really work.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Games</title>
-      <link>https://retr0sity.github.io/games/</link>
+      <title>My Focus</title>
+      <link>http://localhost:1313/focus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://retr0sity.github.io/games/</guid>
+      <guid>http://localhost:1313/focus/</guid>
       <description>&lt;div style=&#34;width: 100%; margin: -2rem -2rem 2rem -2rem;&#34;&gt;
   &lt;div style=&#34;height: 300px; overflow: hidden; border-radius: 0 0 12px 12px;&#34;&gt;
-    &lt;img src=&#34;https://retr0sity.github.io/images/games-hero.jpg&#34; alt=&#34;Game development and creative design&#34; style=&#34;width: 100%; height: 100%; object-fit: cover; object-position: center;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/games-hero.jpg&#34; alt=&#34;Person wearing headphones working at a computer&#34; style=&#34;width: 100%; height: 100%; object-fit: cover; object-position: center;&#34;&gt;
   &lt;/div&gt;
   &lt;p style=&#34;text-align: right; font-size: 0.75rem; color: #888; margin: 0.5rem 1rem 0 0; font-style: italic;&#34;&gt;
     Photo by &lt;a href=&#34;https://www.vecteezy.com/members/kbolbik149668&#34; target=&#34;_blank&#34; style=&#34;color: #888; text-decoration: none;&#34;&gt;Kiryl Balbatunou&lt;/a&gt; on &lt;a href=&#34;https://www.vecteezy.com/photo/71601763-a-person-wearing-headphones-and-sitting-at-a-computer&#34; target=&#34;_blank&#34; style=&#34;color: #888; text-decoration: none;&#34;&gt;Vecteezy&lt;/a&gt;
   &lt;/p&gt;
 &lt;/div&gt;
-&lt;h2 id=&#34;-my-game-development-journey&#34;&gt;🎮 My Game Development Journey&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m passionate about creating interactive experiences that blend storytelling with engaging gameplay. Here you&amp;rsquo;ll find my game projects and playable demos.&lt;/p&gt;</description>
+&lt;h2 id=&#34;-what-im-focused-on&#34;&gt;🎯 What I&amp;rsquo;m Focused On&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m doing my MSc in Computer Science and Engineering at DTU with a cybersecurity specialization. My focus is understanding how software fails, and how to build and run systems that hold up.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://retr0sity.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://retr0sity.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>&lt;div id=&#34;projects-container&#34; style=&#34;width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; min-height: 2000px;&#34;&gt;
-&lt;iframe src=&#34;https://retr0sity.github.io/github-projects.html&#34; 
+&lt;iframe src=&#34;http://localhost:1313/github-projects.html&#34; 
 id=&#34;projects-iframe&#34;
 width=&#34;100%&#34; 
 height=&#34;2000px&#34; 

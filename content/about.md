@@ -12,11 +12,13 @@ title: "About Me"
 </div>
 
 ## Who I Am
-I'm Ioannis, a Computer Science student with a passion for building interactive experiences. My journey spans from software development to game design, where my goal is to combine technical problem solving with creative storytelling.
+I'm Ioannis, a Computer Science student with a passion for building things and understanding how they break. My journey spans from software development to game design, and more recently to cybersecurity and homelabbing, where my goal is to combine technical problem solving with curiosity about how systems really work.
 
 ## What I Do
 - **Software Development**: Building desktop and web applications, tools, and thinking of new solutions
 - **Game Development**: Creating interactive experiences (and not only!) using Unity
+- **Cybersecurity**: Playing CTFs, practising web security, and learning how systems get attacked and defended
+- **Homelabbing & Linux**: Running Linux daily, experimenting with virtual machines and self-hosted setups
 - **Problem Solving**: Working on understanding the problem and developing ideas through many perspectives
 
 ## Skills
@@ -30,12 +32,16 @@ I'm Ioannis, a Computer Science student with a passion for building interactive 
 
 **Business Intelligence**: Power BI
 
+**Systems & Security**: Linux (Arch, Debian), KVM/QEMU, Docker, Wireshark, Nmap, Ghidra, CTFs
+
 **Tools**: Git, Visual Studio Code
 
 ## Currently
 🎮 Working on developing furthermore my Speak2Sheet application.           
-📚 Learning Dockers!
-🔨 Starting my Computer Science and Engineering MSc.
+📚 Learning Dockers!           
+🔐 Training on web security and playing CTFs.           
+🏠 Building up a homelab to experiment with.           
+🔨 Studying my Computer Science and Engineering MSc, specializing in cybersecurity.           
 
 ---
 *Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ioannis-karkalas/) or check out my work on [GitHub](https://github.com/retr0sity)!*
