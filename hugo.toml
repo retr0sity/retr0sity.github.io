@@ -20,6 +20,10 @@ theme = 'PaperMod'
     imageHeight = 400
     imageTitle = "my profile picture"
   
+  [[params.profileMode.buttons]]
+  name = "CV"
+  url = "https://retr0sity.github.io/cv/"
+  
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/retr0sity"
